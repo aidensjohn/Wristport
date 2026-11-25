@@ -1,0 +1,19 @@
+{
+  "sdbPath": "/app/applet/wristport_data/bin/sdb.exe",
+  "bridgeUrl": "http://127.0.0.1:8765",
+  "defaultPort": 26101,
+  "subnetPrefix": "192.168.1",
+  "lastIpOctet": "",
+  "authorCertPath": "",
+  "distributorCertPath": "",
+  "verboseLogging": true,
+  "theme": {
+    "family": "zorin",
+    "mode": "dark",
+    "fontFamily": "default",
+    "material3Color": "indigo",
+    "zorinMode": "dark",
+    "catppuccinFlavor": "mocha",
+    "catppuccinAccent": "mauve"
+  }
+}

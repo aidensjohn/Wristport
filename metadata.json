@@ -1,0 +1,6 @@
+{
+  "name": "wristport",
+  "description": "Tizen OS app store and wireless SDB sideloader companion for Samsung Galaxy Watch and Gear devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
